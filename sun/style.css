@@ -139,7 +139,7 @@ input, textarea, select
 .sm-clean a.highlighted, .sm-clean ul a:hover, .sm-clean ul a:focus, 
 .sm-clean ul a:active, .sm-clean ul a.highlighted, .sm-clean .current_page_item a
 {
-    color: #FD3137;
+	color: #30C41F;
 }
 
 .sub-arrow
@@ -215,9 +215,9 @@ ul.slides li img
 
 #toggle .fa-search:hover 
 {
-    cursor: pointer;
-    zoom: 1.1;
-    color: #fd3137;
+	cursor: pointer;
+	zoom: 1.1;
+	color: #30C41F;
 }
 
 .caroufredsel_wrapper:before 
